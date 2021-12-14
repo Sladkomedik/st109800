@@ -32,3 +32,6 @@ AddUser "dsmith", "password", "Peter", "Smith", "ABC", "416-456-0000", "jsmith@s
 
 ''Invalid input - invalid email
 AddUser "jsmith", "password", "John", "Smith", "ABC", "416-456-0000", "jsmithsample.com"
+
+''Invalid input - invalid email
+AddUser "jblack", "passwordtwo", "Jack", "Black", "ABC", "416-456-0000", "jblack@sample.com"
