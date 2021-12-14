@@ -1,0 +1,25 @@
+'*****************************************************************************
+
+'' ABC Automated Testing
+'' Copyright (c) 2019 ABC
+'' All Rights Reserved Worldwide
+'' Unauthorized Duplication or Distribution Prohibited
+'' *****************************************************************************
+'' FILENAME: adduser
+'' *****************************************************************************
+'' ABOUT THIS FILE 
+
+'' AUTHOR IDENTITY:
+
+'' Initials						Name/Company
+'' --------		 				-----------------------------------------
+'' rw 							Alesya  Sladkomedova Home INC
+
+'' REVISION HISTORY:
+
+'' Date/Initials	 	Comments
+'' ---------					-------------------------------
+
+'' 11/20/2021  rw	Created for LoanApp 2.1
+
+AddCustomer "Julia", "", "1100 Sunset blvd", "Hollywood", "CA", "91028"
